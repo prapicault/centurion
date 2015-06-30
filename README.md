@@ -21,6 +21,8 @@ Commercial Docker Registry Providers:
 - Docker, Inc. [provides repositories](https://index.docker.io/), and hosts the
   main public Docker repository.
 - [Quay.io](https://quay.io) from the CoreOS team
+- [Bintray.com](https://bintray.com) from JFrog allows for hosting of public and private registries
+- [Artifactory](http://www.jfrog.com/artifactory/) allows for in-house hosting of private registries.
 
 Open-source:
 - The [Docker registry](https://github.com/dotcloud/docker-registry) project,
